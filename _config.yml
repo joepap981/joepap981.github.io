@@ -13,7 +13,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: joseph.
-  tagline: noob.
+  tagline: study notes and blogs
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
