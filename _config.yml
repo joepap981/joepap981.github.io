@@ -33,6 +33,7 @@ texture:
 
 # Build settings
 # theme: texture
+showPicker: hide
 remote_theme: thelehhman/texture
 plugins:
   - jekyll-seo-tag
