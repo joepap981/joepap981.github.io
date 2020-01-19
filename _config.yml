@@ -22,6 +22,7 @@ texture:
   # generate social links in footer
   social_links:
     github:  joepap981
+    email: joepap981@gmail.com
     rss: rss
  
 
